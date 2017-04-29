@@ -1,6 +1,6 @@
 {
   "name": "px-rpm-component",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
   "main": [
     "px-rpm-component.html"
   ],
