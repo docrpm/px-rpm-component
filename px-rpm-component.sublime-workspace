@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"data",
+				"dataFactoryModule"
+			],
+			[
+				"boo",
+				"bootstrap-js"
+			],
+			[
+				"pip",
+				"pipelineZoom"
+			],
+			[
+				"zoo",
+				"zoomHCA"
+			],
+			[
+				"highlight",
+				"highlightUtility"
+			],
+			[
+				"highligh",
+				"highlightUtility"
+			],
+			[
+				"isP",
+				"isPipelineZoomed"
+			],
+			[
+				"is",
+				"isPipelineZoomed"
+			],
+			[
+				"remo",
+				"removePipelineZoom"
+			],
+			[
+				"remove",
+				"removePipelineZoom"
+			],
+			[
+				"update",
+				"updateSelection"
+			],
+			[
+				"pipeli",
+				"pipelineEventIds"
+			],
+			[
+				"Ac",
+				"ActivePipelineStatus"
+			],
+			[
+				"selec",
+				"selectedPipelineToView"
+			],
+			[
+				"pre",
+				"precipitationData"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"filt",
+				"filterHighlight"
+			],
+			[
+				"end",
+				"endDateSW"
+			],
+			[
+				"start",
+				"startDateSW"
+			],
+			[
+				"selected",
+				"selectedRegion"
+			],
+			[
+				"filterHi",
+				"filterHighlightData"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"removeE",
+				"removeExtraElementsFromMap"
+			],
+			[
+				"high",
+				"highlightLayer"
+			],
+			[
+				"hi",
+				"highlightLayer"
+			],
+			[
+				"pol",
+				"polygonLayer"
+			],
+			[
+				"val",
+				"valueOf"
+			],
+			[
+				"icon",
+				"iconClusterXRef"
+			],
+			[
+				"reg",
+				"regionIndex"
+			],
+			[
+				"line",
+				"linearAssetIndex"
+			],
+			[
+				"getFil",
+				"getFilterHighlights"
+			],
+			[
+				"clu",
+				"clusterCount"
+			],
+			[
+				"object",
+				"objectType"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"cluster",
+				"cluster-indicator"
+			],
+			[
+				"flood",
+				"floodLayer"
+			],
+			[
+				"sele",
+				"selectedSearch"
+			],
+			[
+				"valv",
+				"valve"
+			],
+			[
+				"objetc",
+				"objectType"
+			],
+			[
+				"ob",
+				"objectType"
+			],
+			[
+				"valu",
+				"valueOf"
+			],
+			[
+				"layertype_",
+				"layerType_mainLineValveSegment_renderOptions"
+			],
+			[
+				"dyn",
+				"dynamicsegment"
+			],
+			[
+				"min",
+				"minZoom"
+			],
+			[
+				"get",
+				"getZoom"
+			],
+			[
+				"PL",
+				"PLTerminator"
+			],
+			[
+				"cur",
+				"curZIndex"
+			],
+			[
+				"layer",
+				"layerInsertType"
+			],
+			[
+				"layerType_pipel",
+				"layerType_pipelineMarkerCircles"
+			],
+			[
+				"valves",
+				"valvesTerminalCirclesLayer"
+			],
+			[
+				"layerType_pipe",
+				"layerType_pipelineMarkerCircles"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/212432050/dev/px-rpm-component"
+	],
+	"file_history":
+	[
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/stub/nav.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/dist/www/data-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/dist/www/nav-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/gulpfile.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/Gruntfile.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/system.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/data-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/json.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/how-to-add.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/overview.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/ui-leaflet/dist/ui-leaflet.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/map/controllers/map.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/map/views/map.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/map/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/dist/www/index.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7/dist/index.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/config.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7/dist/angular-simple-logger.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7/package.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/angular-simple-logger/dist/angular-simple-logger.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/styles/app.scss",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/styles/_module.scss",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/leaflet/dist/leaflet.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/json.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/howtoadd.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/installation.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/data/superheroes.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/installation.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/views/a.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/views/b.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/context/views/context.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/styles/styles.css",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/cards/views/cards.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/cards/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/layouts/views/layouts.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/barcharts/views/barcharts.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/gauges/views/gauges.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/timeseries/views/timeseries.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/views/datagrid.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives/views/ui-bootstrap-directives.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/context/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/barcharts/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/gauges/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/timeseries/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/chart-line/dist/chart-line.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/chart-line/dist/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/layouts/controllers/layouts.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/layouts/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/timeseries/controllers/timeseries.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/app-nav/app-nav.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/app-controller.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/datagrid/dist/datagrid.js",
+		"/Users/212432050/Desktop/sample_data.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/.gitignore",
+		"/Users/212432050/dev/es6-jspm-bootstrap/bower.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/.bowerrc",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/barcharts/controllers/barcharts.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/controllers/datagrid.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/datagrid/dist/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/data/sample.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/gauges/controllers/gauges.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/styles/bootstrap.css",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/nav-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/es6components/controllers/es6components.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/es6components/views/es6components.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/highcharts/adapters/standalone-framework.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/es6components/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/styles/_module.scss",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/services/dataFactory.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/highcharts/adapters/standalone-framework.src.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/highcharts/highcharts.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/gauge-linear/dist/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/datagrid_old/dist/_module.scss",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/views/bootstrap.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/datagrid_old/dist/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/views/bootstrap-js.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/views/bootstrap-components.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/dashboard/views/dashboard.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/overview.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/angular-bootstrap/ui-bootstrap.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/dashboard/controllers/dashboard.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/controllers/bootstrap-js.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/dashboard/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/controllers/bootstrap-components.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/bootstrap/controllers/bootstrap.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/context/controllers/context.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrids/views/datagrids.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives/controllers/ui-bootstrap-directives.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrids/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/dashboards/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/cards/controllers/cards.js",
+		"/Users/212432050/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/212432050/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/212432050/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/212432050/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/212432050/Desktop/nav.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives/controllers/test/a.spec.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/index.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/two/views/d.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/two/views/c.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/controllers/a.js",
+		"/Users/212432050/dev/px-bootstrap-rpm/partials/app-nav/default.html",
+		"/Users/212432050/dev/px-bootstrap-rpm/partials/content/angular-grid.html",
+		"/Users/212432050/dev/px-bootstrap-rpm/partials/content/dashboards.html",
+		"/Users/212432050/dev/px-bootstrap-rpm/templates/card-examples.html",
+		"/Users/212432050/dev/px-bootstrap-rpm/js/states.js",
+		"/Users/212432050/dev/px-bootstrap-rpm/js/controllers/main.js",
+		"/Users/212432050/Desktop/gitconfig_fix.txt",
+		"/Users/212432050/dev/angular-iidx/app/views/masthead.html",
+		"/Users/212432050/dev/angular-iidx/app/views/secondary-nav.html",
+		"/Users/212432050/dev/angular-iidx/app/scripts/config.js",
+		"/Users/212432050/Desktop/ge_sans_font_face.css",
+		"/Users/212432050/Desktop/custom_field_blurb.php",
+		"/Users/212432050/Desktop/styles_2012.css",
+		"/Users/212432050/Desktop/design_team_WIP_links",
+		"/Users/212432050/Desktop/sample_custom_fields.html",
+		"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts/directives/smallWorldMap.js",
+		"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views/smallWorld.html",
+		"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/open-layers/dist/OpenLayers.js",
+		"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-popovers/js/map-newpopovers.js",
+		"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts/services/pipelineDataService.js",
+		"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts/services/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/212432050/dev/es6-jspm-bootstrap/public",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public/modules",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public/modules",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public",
+			"/Users/212432050/dev/es6-jspm-bootstrap",
+			"/Users/212432050/dev/px-bootstrap-rpm",
+			"/Users/212432050/dev/angular-iidx",
+			"/Users/212432050/dev/bootstrap-experiment-static-master",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-markers",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views/partials",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm-services",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-markers/js",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views/partials",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-core",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui/ipm-webapp/public",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui/ipm-webapp",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui/ipm-webapp/public",
+			"/Users/212432050/dev/angular-iidx/app/bower_components/iids-dist/components",
+			"/Users/212432050/dev/grid-iq-demo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filter",
+			"require",
+			"CardsCtrl",
+			"CardsModule",
+			"ul",
+			"h5",
+			"ui-sref",
+			"fa-wrench",
+			"dashboard",
+			"Dashboard",
+			"dashboard",
+			"DashboardCtrl",
+			"ES6ComponentsModule",
+			"es6components",
+			"ES6ComponentsCtrl",
+			"navserv",
+			"vm.",
+			"es6components",
+			"ES6Components",
+			"es6components",
+			"ES6Components",
+			"es6components",
+			"vm.",
+			"es6components",
+			"ES6ComponentsCtrl",
+			"DatagridModule",
+			"_module",
+			"h2",
+			"ui.router",
+			"angular-ui-router",
+			"UIBSD",
+			"ui-bootstrap-directives",
+			"UIBSDCtrl",
+			"ui-bootstrap-directives",
+			"UIBSD",
+			"Dashboards",
+			"UIBSD",
+			"ui-bootstrap-directives",
+			"ModuleCtrl",
+			"cards",
+			"CardsModule",
+			"CardsCtrl",
+			"ModuleCtrl",
+			"UIBSD",
+			"ui-bootstrap-directives",
+			"Module",
+			"ModuleCtrl",
+			"Module",
+			"controller: 'Ctrl',",
+			"Ctrl",
+			"ui-bootstrap-directives",
+			"UIBSD",
+			".controller('Ctrl', Ctrl)",
+			"import Ctrl from",
+			"new controller",
+			"getNavItems",
+			"Module One",
+			"sandbox",
+			"character",
+			"dashboards",
+			"OverviewCtrl",
+			"MainCtrl",
+			"html",
+			"feature",
+			"family",
+			"ge-sans",
+			".\n",
+			"tag",
+			"border-bottom",
+			"navigation",
+			"pipeline",
+			"minzoom",
+			"noa",
+			"temperature1",
+			"addcsvlayer",
+			"csvjsonfile",
+			"convertToJSON",
+			"togglecustomlayer",
+			"togglecustomerlayer",
+			"refreshLayer_csvMarkers",
+			"createcsvmarkers",
+			"csv",
+			"openlayers",
+			"mapoverlay",
+			"markers",
+			"addmarkers",
+			"csvmarkers",
+			"csv",
+			"arcgis",
+			"process",
+			"searchquery",
+			"selectedSearch.id == \"pipeline\"){",
+			"selectedsearch",
+			"console.log",
+			"highlightpipelinelisting",
+			"highlightUtility.isHCAHighlighted",
+			"hcahighlight",
+			"highlightlayer",
+			"hcahighlight",
+			"highlightactivepipe",
+			"$log.info",
+			"$log.$info",
+			"selected",
+			"cluster exists",
+			"$log",
+			"console.log",
+			"Selectedse",
+			"pipelinezoom",
+			"highlightactivedrs",
+			"activeHCAList",
+			"layerinserttype: \"HCA\"",
+			"Searched Pipeline",
+			"DRS",
+			"drs",
+			"DRS",
+			"drs",
+			"DRS",
+			"$log.info",
+			"$log.info//",
+			"highlightpipelinelisting",
+			"activepipelineid",
+			"highlightActiveDRS",
+			"pipelinezoom",
+			"drszoom",
+			"drshighlight",
+			"drszoom",
+			"pipelinezoom",
+			"Pipeline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"controller: 'ModuleCtrl',",
+			"i.controller('ModuleCtrl', ModuleCtrl)",
+			"import ModuleCtrl from",
+			"//$log.info",
+			"(Eng.)",
+			"(Eng. End)",
+			"(Eng. Start)",
+			"(Eng. End)",
+			"(Eng. Start)",
+			"Station Series (eng)",
+			"icon-map-marker",
+			"pipelineTerminators",
+			"5.25"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "px-rpm-component.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

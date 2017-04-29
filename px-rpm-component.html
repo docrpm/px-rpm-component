@@ -1,0 +1,41 @@
+<!--
+    Relative paths assume component is being run from inside an app or another component, where dependencies are flat
+    siblings. When this component is run from its own repo (e.g. tests, examples), we assume the server is started with
+    'gulp serve' (or similar server setup) to enable correct finding of bower dependencies for local runs.
+-->
+<link rel="import" href="../polymer/polymer.html"/>
+
+<link rel="import" href="../px-tooltip/px-tooltip.html"/>
+
+<link rel="import" href="css/px-rpm-component-styles.html">
+
+<!--
+REPLACE THIS TEXT WITH A COMPONENT DESCRIPTION
+
+##### Usage
+
+    <px-rpm-component counter-value="1"></px-rpm-component>
+
+@element px-rpm-component
+@blurb REPLACE THIS TEXT WITH A COMPONENT DESCRIPTION
+@homepage index.html
+@demo index.html
+-->
+
+<dom-module id="px-rpm-component">
+  <template>
+    <style include="px-rpm-component-styles"></style>
+    <a href="javascript:" on-click="getBoxSize">Click here to increment counter:</a>
+    <span>{{counterValue}}</span>
+
+    <div id="outer">
+	    <label for="input1" >Hello __________</label>
+		<input id="input1" placeholder="Your world here..." class="text-input" type="text" size$="{{boxSize}}" value="{{world::input}}">
+	</div>
+	<button id="updateBtn" class="btn" on-click="updateStatic">Make It So</button>
+	<px-tooltip for="updateBtn" delay="200" orientation="right" tooltip-message="You are here"></px-tooltip>
+	<h4>Dynamic: Hello, {{world}}!</h4>
+	<h4>Static: {{world_static}}</h4>
+  </template>
+</dom-module>
+<script src="dist/px-rpm-component.js"></script>
