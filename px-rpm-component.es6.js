@@ -23,11 +23,6 @@
         type: String,
         value: '',
         notify: true
-      },
-      counterValue: {
-        type: Number,
-        value: 0,
-        notify: true
       }
     },
 
@@ -50,13 +45,10 @@
     // },
 
     /**
-    * Increments the counter
+    * Updates static text when button clicked
     *
-    * @method increment
+    * @method updateStatic
     */
-    increment: function() {
-      this.counterValue++;
-    },
 
     updateStatic: function() {
       this.world_static = 'Hello, ' + this.world + '!';

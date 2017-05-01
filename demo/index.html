@@ -37,7 +37,7 @@
       <!-- Component ---------------------------------------------------------->
       <px-demo-component>
         <px-rpm-component
-          counter-value="{{props.counterValue.value}}" box-size="{{props.boxSize.value}}">
+          box-size="{{props.boxSize.value}}">
         </px-rpm-component>
       </px-demo-component>
       <!-- END Component ------------------------------------------------------>
@@ -198,11 +198,6 @@
      * A reference for `this.props`. Read the documentation there.
      */
     demoProps: {
-      counterValue: {
-        type: Number,
-        defaultValue: '0',
-        inputType: 'text'
-      },
       boxSize: {
         type: Number,
         defaultValue: '50',

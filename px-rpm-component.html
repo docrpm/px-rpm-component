@@ -25,15 +25,12 @@ REPLACE THIS TEXT WITH A COMPONENT DESCRIPTION
 <dom-module id="px-rpm-component">
   <template>
     <style include="px-rpm-component-styles"></style>
-    <a href="javascript:" on-click="getBoxSize">Click here to increment counter:</a>
-    <span>{{counterValue}}</span>
-
     <div id="outer">
 	    <label for="input1" >Hello __________</label>
 		<input id="input1" placeholder="Your world here..." class="text-input" type="text" size$="{{boxSize}}" value="{{world::input}}">
 	</div>
 	<button id="updateBtn" class="btn" on-click="updateStatic">Make It So</button>
-	<px-tooltip for="updateBtn" delay="200" orientation="right" tooltip-message="You are here"></px-tooltip>
+	<px-tooltip for="updateBtn" delay="200" orientation="right" tooltip-message="Click to update static text"></px-tooltip>
 	<h4>Dynamic: Hello, {{world}}!</h4>
 	<h4>Static: {{world_static}}</h4>
   </template>
