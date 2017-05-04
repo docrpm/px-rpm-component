@@ -52,6 +52,16 @@
 
     updateStatic: function() {
       this.world_static = 'Hello, ' + this.world + '!';
+    },
+
+    /**
+    * Simple method to pop an alert window
+    *
+    * @method showMsg
+    */
+
+    showMsg: function() {
+      alert('May the 4th be with you!');
     }
   });
 })();

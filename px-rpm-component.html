@@ -30,6 +30,7 @@ REPLACE THIS TEXT WITH A COMPONENT DESCRIPTION
 		<input id="input1" placeholder="Your world here..." class="text-input" type="text" size$="{{boxSize}}" value="{{world::input}}">
 	</div>
 	<button id="updateBtn" class="btn" on-click="updateStatic">Make It So</button>
+	<button id="msgBtn" class="btn" on-click="showMsg">Message Me</button>
 	<px-tooltip for="updateBtn" delay="200" orientation="right" tooltip-message="Click to update static text"></px-tooltip>
 	<h4>Dynamic: Hello, {{world}}!</h4>
 	<h4>Static: {{world_static}}</h4>
