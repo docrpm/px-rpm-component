@@ -1,0 +1,48 @@
+{
+  "name": "px-rpm-component",
+  "version": "0.0.5-alpha",
+  "main": [
+    "px-rpm-component.html"
+  ],
+  "ignore": [
+    ".*",
+    "npm-debug.log",
+    "gulpfile.js",
+    "sass",
+    "bower_components",
+    "node_modules",
+    "test",
+    "OSS_Notice.pdf",
+    "scripts",
+    ".github",
+    "px-rpm-component.png",
+    "LICENSE.md",
+    "CONTRIBUTING.md",
+    "HISTORY.md",
+    "README.md",
+    ".jshintrc",
+    ".editorconfig",
+    "*.enc"
+  ],
+  "dependencies": {
+    "polymer": "^1.7.1",
+    "px-theme": "^2.0.3",
+    "px-modal": "https://github.com/PredixDev/px-modal.git#^1.4.10",
+    "px-alert-label": "^1.2.4"
+  },
+  "devDependencies": {
+    "px-starter-kit-design": "^0.7.3",
+    "px-demo": "^1.3.2"
+  },
+  "homepage": "https://github.com/docrpm/px-rpm-component",
+  "_release": "0.0.5-alpha",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.5-alpha",
+    "commit": "42ae82be8ad9ff7c9a75469e8c22d07e5b8ad6e7"
+  },
+  "_source": "https://github.com/docrpm/px-rpm-component.git",
+  "_target": "^0.0.5-alpha",
+  "_originalSource": "px-rpm-component",
+  "_direct": true
+}
